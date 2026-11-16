@@ -10,7 +10,7 @@ The project combines business-focused exploratory analysis with inferential stat
 
 ### 1. Growth & Acquisition
 
-![Growth & Acquisition](images/01_growth_acquisition.png)
+![Growth & Acquisition](images/images01_growth_acquisition.png)
 
 The Growth & Acquisition page tracks business performance over time and allows users to dynamically switch between:
 

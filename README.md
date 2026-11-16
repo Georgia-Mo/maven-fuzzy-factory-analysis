@@ -39,7 +39,7 @@ The final page evaluates whether a new landing page reduced bounce rate relative
 The complete interactive Power BI report is available in:
 
 ```text
-powerbi/maven_fuzzy_factory_dashboard.pbix
+powerbi/maven_dashboard.pbix
 ```
 
 ---
@@ -357,6 +357,7 @@ The report includes:
 maven-fuzzy-factory-analysis/
 │
 ├── README.md
+├── .gitignore
 │
 ├── sql/
 │   ├── analysis/
@@ -374,13 +375,13 @@ maven-fuzzy-factory-analysis/
 │   └── 02_ab_test_analysis.ipynb
 │
 ├── powerbi/
-│   └── maven_fuzzy_factory_dashboard.pbix
+│   └── maven_dashboard.pbix
 │
 └── images/
-    ├── 01_growth_acquisition.png
     ├── gif01_growth_acquisition_interactive.gif
-    ├── 02_funnel_device.png
-    └── 03_ab_test.png
+    ├── images01_growth_acquisition.png
+    ├── images02_funnel_device.png
+    └── images03_ab_test.png
 ```
 
 The large session-level modelling dataset is not included in the repository. It can be regenerated using the provided SQL extraction script.

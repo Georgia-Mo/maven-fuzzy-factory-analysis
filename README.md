@@ -26,13 +26,13 @@ The channel view uses the same interactive approach to compare different types o
 
 ### 2. Funnel & Device
 
-![Funnel & Device](images/02_funnel_device.png)
+![Funnel & Device](images/images02_funnel_device.png)
 
 This page compares progression through the purchase funnel for desktop and mobile sessions and combines descriptive funnel analysis with an adjusted statistical model of purchase conversion.
 
 ### 3. A/B Test
 
-![A/B Test](images/03_ab_test.png)
+![A/B Test](images/images03_ab_test.png)
 
 The final page evaluates whether a new landing page reduced bounce rate relative to the original homepage.
 
